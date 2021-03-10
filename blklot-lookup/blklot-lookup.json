@@ -680,7 +680,7 @@
                 "value": ""
               }
             ],
-            "content": "Enter the address without abbreviations. <br />If you cannot find the address, email <a href=\"mailto:cpc.adu@sfgov.org?subject=Project address lookup\" target=\"_blank\">cpc.adu@sfgov.org</a>",
+            "content": "Enter the address without abbreviations.",
             "refreshOnChange": false,
             "key": "html",
             "type": "htmlelement",
