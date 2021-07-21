@@ -745,12 +745,12 @@
             "id": "elfmeek"
           },
           {
-            "label": "Enter the block and lot number instead.",
+            "label": "Enter the block and lot number instead",
             "action": "custom",
             "showValidations": false,
             "theme": "secondary",
             "size": "sm",
-            "customClass": "btn-link h5",
+            "customClass": "btn-link p-0",
             "tableView": false,
             "key": "enterBlockAndLotInstead",
             "type": "button",
@@ -1559,12 +1559,12 @@
             "id": "epohq"
           },
           {
-            "label": "Enter address instead.",
+            "label": "Enter the address instead",
             "action": "custom",
             "showValidations": false,
             "theme": "secondary",
             "size": "sm",
-            "customClass": "btn-link h5",
+            "customClass": "btn-link p-0",
             "tableView": false,
             "key": "enterByAddressInstead",
             "type": "button",
